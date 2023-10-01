@@ -1,2 +1,0 @@
-# Generator-poroleiy
-Генератор поролей
